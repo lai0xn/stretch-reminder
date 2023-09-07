@@ -8,5 +8,3 @@ while True:
     notification.notify()
     time.sleep(3600)
     
-
-    
